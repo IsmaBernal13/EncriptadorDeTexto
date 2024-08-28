@@ -1,2 +1,0 @@
-# EncriptadorDeTexto
-Ejercicio de Challenge
